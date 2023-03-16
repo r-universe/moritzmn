@@ -1,0 +1,10 @@
+[
+  {
+    "package": "TideCurves",
+    "oncran": true
+  },
+  {
+    "package": "TideTables",
+    "oncran": true
+  }
+]

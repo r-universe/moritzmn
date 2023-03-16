@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TideCurves"]
+	path = TideCurves
+	url = https://github.com/moritzmn/tidecurves
+	shallow = true
+	registered = true
+[submodule "TideTables"]
+	path = TideTables
+	url = https://github.com/moritzmn/tidetables
+	shallow = true
+	registered = true
